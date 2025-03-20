@@ -18,5 +18,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Clear the input field
     form.reset();
+    //
   });
 });
